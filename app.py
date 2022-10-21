@@ -1,0 +1,5 @@
+print("DUPA")
+print("DUPA")
+print("DUPA")
+print("DUPA")
+print("DUPA")
